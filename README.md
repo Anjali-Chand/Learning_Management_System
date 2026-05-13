@@ -1,4 +1,4 @@
 # Learning Management System
 
 ## Project Details
-[LMS Details](LMS_details.pdf)
+[LMS Details](LMS_Details.pdf)
